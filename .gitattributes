@@ -1,1 +1,1 @@
-static/css/* linguist-vendored
+echo "static/css/bootstrap* linguist-vendored" >> .gitattributes
